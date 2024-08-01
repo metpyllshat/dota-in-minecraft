@@ -1,0 +1,2 @@
+damage @e[tag=!pudge,sort=nearest,limit=1,type=#pudge:hookable] 3
+execute as @e[tag=!pudge,sort=nearest,limit=1,type=#pudge:hookable] at @s facing entity @a[tag=pudge,limit=1] eyes run tp @s @a[tag=pudge,limit=1]

@@ -1,0 +1,6 @@
+{
+    "dota.arcane_boots":
+	{"category": "master","sounds": [{"name": "dota/arcane_boots","stream": false}]},
+	"dota.secretshop":
+	{"category": "master","sounds": [{"name": "dota/secretshop_1","stream": false},{"name": "dota/secretshop_2","stream": false},{"name": "dota/secretshop_3","stream": false},{"name": "dota/secretshop_4","stream": false},{"name": "dota/secretshop_5","stream": false}]}
+}

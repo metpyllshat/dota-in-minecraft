@@ -1,0 +1,9 @@
+##
+ # logic.mcfunction
+ # 
+ #
+ # Created by Scythe.
+##
+attackspeed = x*0.01/baseattacktime
+damage= x/50
+regen= x/50*20 ticks after regeneration

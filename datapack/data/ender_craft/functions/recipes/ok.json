@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:warped_fungus_on_a_stick",
+            "nbt": "{CustomModelData:3}"
+        },
+        {
+            "item": "minecraft:leather_boots",
+            "nbt": "{CustomModelData:1}" 
+        }
+    ],
+    "result": {
+        "item": "minecraft:leather_boots",
+        "nbt": "{CustomModelData:2,Unbreakable:1,display:{Name:'[{\"text\":\"Arcane Boots\",\"italic\":false}]',Lore:['[{\"text\":\"+45\",\"italic\":false,\"color\":\"gold\"},{\"text\":\" к скорости передвижения\",\"color\":\"gray\"}]','[{\"text\":\"+250\",\"italic\":false,\"color\":\"gold\"},{\"text\":\" к мане\",\"color\":\"gray\"}]']},AttributeModifiers:[{Slot:\"feet\",AttributeName:\"generic.movement_speed\",Name:\"generic.movement_speed\",Amount:0.02166,UUID:[I; 42853, 1689024593, -201178, -1559272105]},{Slot:\"feet\",AttributeName:\"generic.armor\",Name:\"armor\",Amount:0,UUID:[I; 42853, 1689024593, -201178, -1559272105]}]}",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{CustomModelData:221,AttributeModifiers:[{Slot:\"feet\",AttributeName:\"generic.movement_speed\",UUID:[I; 42853, 1689024593, -201178, -1559272105], Amount:0,Name:\"generic.movement_speed\"}]}"
+  }
+]

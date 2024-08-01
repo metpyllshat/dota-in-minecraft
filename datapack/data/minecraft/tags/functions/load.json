@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "dod:reset",
+        "ender_craft:init"
+    ]
+}
